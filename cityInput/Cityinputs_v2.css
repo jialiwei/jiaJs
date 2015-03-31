@@ -1,0 +1,26 @@
+#city_input_province_area{
+	width: 100%;
+	overflow: hidden;
+}
+#city_input_city_area{
+	width: 100%;
+	clear: both;
+	overflow: hidden;
+}
+#city_input_district_area{
+	width: 100%;
+	clear: both;
+	overflow: hidden;
+}
+.province_item{
+	float: left;
+	width: 100px;
+}
+.city_item{
+	float: left;
+	width: 100px;
+}
+.distrinct_item{
+	float: left;
+	width: 100px;
+}
